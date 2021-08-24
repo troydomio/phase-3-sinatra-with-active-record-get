@@ -1,4 +1,5 @@
 describe ApplicationController do
+  
   let(:game) { Game.first }
 
   before do
